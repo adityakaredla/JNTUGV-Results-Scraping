@@ -1,6 +1,6 @@
 # JNTUGV-Results-Scraping
 
-This Python script is designed to scrape student result data from the Jawaharlal Nehru Technological University Kakinada UCEV (JNTUK UCEV) website. It allows you to retrieve result information for multiple students and save it in a JSON file.
+This Python script is designed to scrape student result data from the Jawaharlal Nehru Technological University Gurajada Vizianagaram (JNTGV) website. It allows you to retrieve result information for multiple students and save it in a JSON file.
 
 ## Prerequisites
 
