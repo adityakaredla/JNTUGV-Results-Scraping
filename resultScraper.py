@@ -97,7 +97,7 @@ def studentWiseScraper(studentHallTicketNumber , resultSetNumber):
 
 def funcInitiator():
     hallTicketTemplate = input("Enter HallTicket String (Dept & Year) :")
-    resultSetNumber = int(input("Enter Unique Result Code for Examination"))
+    resultSetNumber = int(input("Enter Unique Result Code for Examination :"))
     rollNumberRange = int(input("Enter Roll Number Range:"))
     fileName = input("Enter File Name to be saved :")
     classData = []
